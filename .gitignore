@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+packages/
+Debug/
+Release/
+
+# Other
+.DS_Store
+*.log
+.venv/

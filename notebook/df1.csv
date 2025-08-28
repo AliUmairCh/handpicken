@@ -1,0 +1,501 @@
+,rs_rank,rs_artist,rs_song,rs_year
+0,1,bob dylan,like a rolling stone,1961
+1,2,the rolling stones,satisfaction,1965
+2,3,john lennon,imagine,1971
+3,4,marvin gaye,what’s going on,1971
+4,5,aretha franklin,respect,1967
+5,6,the beach boys,good vibrations,1966
+6,7,chuck berry,johnny b. goode,1958
+7,8,the beatles,hey jude,1968
+8,9,nirvana,smells like teen spirit,1991
+9,10,ray charles,what'd i say (part 1&2),1959
+10,11,the who,my generation,1965
+11,12,sam cooke,a change is gonna come,1964
+12,13,the beatles,yesterday,1965
+13,14,bob dylan,blowin' in the wind,1963
+14,15,the clash,london calling,1980
+15,16,the beatles,i want zo hold your hand,1963
+16,17,jimmy hendrix,purple haze,1967
+17,18,chuck berry,maybellene,1955
+18,19,elvis presley,hound dog,1956
+19,20,the beatles,let it be,1970
+20,21,bruce springsteen,born to run,1975
+21,22,the ronettes,be my baby,1963
+22,23,the beatles,in my life,1965
+23,24,the impressions,people get ready,1965
+24,25,the beach boys,god only knows,1966
+25,26,the beatles,a day in a life,1967
+26,27,derek and the dominos,layla,1970
+27,28,otis redding,sitting on the dock of the bay,1968
+28,29,the beatles,help,1965
+29,30,johnny cash,i walk the line,1956
+30,31,led zeppelin,stairway to heaven,1971
+31,32,the rolling stones,sympathy for the devil,1968
+32,33,tina turner,river deep - mountain high,1966
+33,34,the righteous brothers,you've lost that lovin' feelin',1964
+34,35,the doors,light my fire,1967
+35,36,u2,one,1991
+36,37,bob marley,no woman no cry,1975
+37,38,the rolling stones,gimme shelter,1969
+38,39,"holly, buddy",that'll be the day,1957
+39,40,martha & the vandellas,dancing in the street,1964
+40,41,the band,the weight,1968
+41,42,the kinks,waterloo sunset,1968
+42,43,little richard,tutti frutti,1956
+43,44,ray charles,georgia on my mind,1960
+44,45,elvis presley,heartbreak hotel,1956
+45,46,david bowie,heroes,1977
+46,47,simon and garfunkel,bridge over troubled water,1970
+47,48,jimi hendrix,all along the watchtower,1968
+48,49,the eagles,hotel california,1976
+49,50,smokey robinson & the miracles,the tracks of my tears,1965
+50,51,grandmaster flash,the message,1980
+51,52,prince,when doves cry,1984
+52,53,sex pistols,anarchy in the u.k.,1976
+53,54,percy sledge,when a man loves a woman,1966
+54,55,the kingsmen,louie louie,1963
+55,56,little richard,long tall sally,1956
+56,57,procol harum,a whiter shade of pale,1967
+57,58,michael jackson,billie jean,1983
+58,59,bob dylan,the times they are a changin',1964
+59,60,al green,let's stay together,1971
+60,61,jerry lee lewis,whole lotta shakin' going on,1957
+61,62,bo diddley,bo diddley,1955
+62,63,buffalo springfield,for what it's worth,1967
+63,64,the beatles,she loves you,1963
+64,65,cream,sunshine of your love,1968
+65,66,bob marley,redemption song,1980
+66,67,elvis presley,jailhouse rock,1958
+67,68,bob dylan,tangled up in blue,1975
+68,69,roy orbison,crying,1961
+69,70,dionne warwick,walk on by,1964
+70,71,the beach boys,california girls,1965
+71,72,james brown,papa's got a brand new bag,1966
+72,73,eddie cochran,summertime blues,1958
+73,74,stevie wonder,superstition,1973
+74,75,led zeppelin,whole lotta love,1969
+75,76,the beatles,strawberry fields forever,1967
+76,77,elvis presley,mystery train,1955
+77,78,james brown,i got you (i feel good),1966
+78,79,the byrds,mr. tambourine man,1965
+79,80,marvin gaye,i heard it through the grapevine,1968
+80,81,fats domino,blueberry hill,1956
+81,82,the kinks,you really got me,1964
+82,83,the beatles,norwegian wood,1965
+83,84,the police,every breath you take,1983
+84,85,patsy cline,crazy,1961
+85,86,bruce springsteen,thunder road,1975
+86,87,johnny cash,ring of fire,1963
+87,88,the temptations,my girl,1965
+88,89,the mamas and the papas,california dreamin',1967
+89,90,the five satins,in the still of the night,1956
+90,91,elvis presley,suspicious minds,1969
+91,92,the ramones,blitzkrieg bop,1976
+92,93,u2,i still haven't found what i am looking,1987
+93,94,little richard,good golly miss molly,1958
+94,95,carl perkins,blue suede shoes,1956
+95,96,jerry lee lewis,great balls of fire,1957
+96,97,chuck berry,roll over beethoven,1956
+97,98,al green,love and happiness,1972
+98,99,ccr,fortunate son,1970
+99,100,rolling stones,you can’t always get what you want,1969
+100,101,jimi hendrix,voodoo child,1968
+101,102,gene vincent and his blue caps,be bop a lula,1956
+102,103,donna summer,hot stuff,1979
+103,104,stevie wonder,living for the city,1973
+104,105,simon and garfunkel,the boxer,1969
+105,106,bob dylan,mr. tambourine man,1965
+106,107,buddy holly,not fade away,1957
+107,108,prince,little red corvette,1983
+108,109,van morrison,brown eyed girl,1967
+109,110,otis redding,i've been loving you too long,1965
+110,111,"hank williams, sr.",i'm so lonesome i could cry,1949
+111,112,elvis presley,that's all right,1954
+112,113,the drifters,up on the roof,1962
+113,114,the crystals,da doo ron ron,1963
+114,115,sam cooke,you send me,1957
+115,116,rolling stones,honky tonk woman,1969
+116,117,al green,take me to the river,1974
+117,118,the isley brothers,shout (part 1 & 2),1959
+118,119,fleetwood mac,go your own way,1977
+119,120,the jackson 5,i want you back,1969
+120,121,ben e. king,stand by me,1961
+121,122,the animals,house of the rising sun,1964
+122,123,james brown,it's a man's man's world,1966
+123,124,rolling stones,jumpin' jack flash,1968
+124,125,the shirelles,will you love me tomorrow,1960
+125,126,big joe turner,"shake, rattle and roll",1954
+126,127,david bowie,changes,1971
+127,128,chuck berry,rock and roll music,1957
+128,129,steppenwolf,born to be wild,1968
+129,130,rod stewart,maggie may,1971
+130,131,u2,with or without you,1987
+131,132,bo diddley,who do you love,1957
+132,133,the who,won't get fooled again,1971
+133,134,wilson picket,in the midnight hour,1965
+134,135,the beatles,while my guitar gently weeps,1968
+135,136,elton john,your song,1970
+136,137,the beatles,eleanor rigby,1966
+137,138,sly and the family stone,family affair,1971
+138,139,the beatles,i saw her standing there,1964
+139,140,led zeppelin,kashmir,1975
+140,141,the everly brothers,all i have to do is dream,1958
+141,142,james brown,"please, please, please",1956
+142,143,prince,purple rain,1984
+143,144,the ramones,i wanna be sedated,1978
+144,145,sly & family stone,everyday people,1968
+145,146,the b-52's,rock lobster,1979
+146,147,iggy pop,lust for life,1977
+147,148,janis joplin,me and bobby mcgee,1971
+148,149,the everly brothers,cathy's clown,1960
+149,150,the byrds,eight miles high,1966
+150,151,the penguins,earth angel,1954
+151,152,jimi hendrix,foxy lady,1965
+152,153,the beatles,hard day's night,1964
+153,154,buddy holly,rave on,1958
+154,155,ccr,proud mary,1969
+155,156,simon & garfunkel,the sound of silence,1965
+156,157,the flamingos,i only have eyes for you,1959
+157,158,bill haley,rock around the clock,1954
+158,159,lou reed the velvet underground,i'm waiting for the man,1967
+159,160,public enemy ft. anthrax,bring the noise,1988
+160,161,ray charles,i can't stop loving you,1962
+161,162,sinead o'connor,nothing compares 2 u,1990
+162,163,queen,bohemian rhapsody,1975
+163,164,johnny cash,folsom prison blues,1956
+164,165,tracy chapman,fast car,1988
+165,166,eminem,lose yourself,2002
+166,167,marvin gaye,let’s get it on,1973
+167,168,the temptations,papa was a rollin' stone,1972
+168,169,r.e.m.,losing my religion,1991
+169,170,joni mitchell,both sides now,1969
+170,171,abba,dancing queen,1976
+171,172,aerosmith,dream on,1973
+172,173,the sex pistols,god save the queen,1977
+173,174,rolling stones,paint it black,1966
+174,175,bobby fuller four,i fought the law,1966
+175,176,the beach boys,don't worry baby,1964
+176,177,tom petty,free fallin',1989
+177,178,big star,september girls,1974
+178,179,joy division,love will tear us apart,1980
+179,180,outkast,hey ya,2003
+180,181,booker t & mgs,green onions,1962
+181,182,drifters,save the last dance for me,1960
+182,183,bb king,the thrill is gone,1969
+183,184,the beatles,"please, please me",1964
+184,185,bob dylan,desolation row,1965
+185,186,aretha franklin,never loved a man (the way i love you),1967
+186,187,ac/dc,back in black,1980
+187,188,ccr,who'll stop the rain,1970
+188,189,the bee gees,stayin' alive,1977
+189,190,bob dylan,knocking on heavens door,1973
+190,191,lynyrd skynyrd,free bird,1973
+191,192,glen campbell,wichita lineman,1968
+192,193,the drifters,there goes my baby,1959
+193,194,buddy holly,peggy sue,1957
+194,195,the chantels,maybe,1957
+195,196,guns n roses,sweet child o mine,1987
+196,197,elvis presley,don't be cruel,1956
+197,198,jimi hendrix,hey joe,1966
+198,199,parliament funkadelic,flashlight,1977
+199,200,beck,loser,1993
+200,201,new order,bizarre love triangle,1986
+201,202,the beatles,come together,1969
+202,203,bob dylan,positively 4th street,1965
+203,204,otis redding,try a little tenderness,1966
+204,205,bill withers,lean on me,1972
+205,206,the four tops,reach out i'll be there,1966
+206,207,the everly brothers,bye bye love,1957
+207,208,them,gloria,1965
+208,209,the beach boys,in my room,1963
+209,210,question mark and the mysterians,96 tears,1966
+210,211,the beach boys,caroline no,1966
+211,212,prince,1999,1982
+212,213,hank williams sr.,your cheating heart,1953
+213,214,neil young,rockin' in the free world,1989
+214,215,the chords,sh-boom,1954
+215,216,the lovin' spoonful,do you believe in magic,1965
+216,217,dolly parton,jolene,1974
+217,218,john lee hooker,boom boom,1963
+218,219,howlin' wolf,spoonful,1960
+219,220,the left banke,walk away renee,1966
+220,221,lou reed,walk on the wild side,1972
+221,222,roy orbison,oh pretty woman,1964
+222,223,sly & the family stone,dance to the music,1968
+223,224,chic,good times,1979
+224,225,muddy waters,hoochie coochie man,1954
+225,226,van morrison,moondance,1970
+226,227,james taylor,fire and rain,1970
+227,228,the clash,should i stay or should i go,1982
+228,229,muddy waters,mannish boy,1955
+229,230,bob dylan,just like a woman,1966
+230,231,marvin gaye,sexual healing,1982
+231,232,roy orbison,only the lonely,1960
+232,233,the animals,we`ve gotta get out of this place,1965
+233,234,the byrds,i'll feel a whole lot better,1965
+234,235,ray charles,i got a woman,1954
+235,236,buddy holly,everyday,1957
+236,237,afrika bambaataa,planet rock,1982
+237,238,patsy cline,i fall to pieces,1961
+238,239,dion,the wanderer,1961
+239,240,dusty springfield,son of a preacher man,1968
+240,241,sly & the family stone,stand!,1969
+241,242,elton john,rocket man,1972
+242,243,the b 52s,love shack,1989
+243,244,the spencer davis group,gimme some lovin',1966
+244,245,the band,the night they drove old dixie down,1969
+245,246,jackie wilson,higher and higher,1967
+246,247,sly and the family stone,hot fun in the summertime,1969
+247,248,sugarhill gang,rappers delight,1979
+248,249,aretha franklin,chain of fools,1967
+249,250,black sabbath,paranoid,1970
+250,251,bobby darin,mack the knife,1959
+251,252,the drifters,money honey,1953
+252,253,mott the hoople,all the young dudes,1972
+253,254,ac/dc,highway to hell,1979
+254,255,blondie,heart of glass,1978
+255,256,radiohead,paranoid android,1997
+256,257,the troggs,wild thing,1966
+257,258,the who,i can see for miles,1967
+258,259,jeff buckley,hallelujah,1994
+259,260,the dells,"oh, what a night",1969
+260,261,stevie wonder,higher ground,1973
+261,262,smokey robinson & the miracles,ooo baby baby,1965
+262,263,the crystals,he's a rebel,1962
+263,264,randy newman,sail away,1972
+264,265,archie bell,tighten' up,1968
+265,266,the ronettes,walking in the rain,1964
+266,267,new york dolls,personality crisis,1973
+267,268,u2,sunday bloody sunday,1983
+268,269,the modern lovers,roadrunner,1976
+269,270,george jones,he stopped loving her today,1980
+270,271,the beach boys,sloop john b,1966
+271,272,chuck berry,sweet little sixteen,1958
+272,273,the beatles,something,1969
+273,274,jefferson airplane,somebody to love,1967
+274,275,bruce springsteen,born in the usa,1984
+275,276,the staple singers,i'll take you there,1972
+276,277,david bowie,ziggy stardust,1972
+277,278,the cure,pictures of you,1989
+278,279,the dixie cups,chapel of love,1964
+279,280,bill withers,ain’t no sunshine,1971
+280,281,stevie wonder,you are the sunshine of my life,1972
+281,282,joni mitchell,help me,1974
+282,283,blondie,call me,1980
+283,284,elvis costello,"what's so funny about peace, love & …",1979
+284,285,howlin' wolf,smoke stack lightnin',1965
+285,286,pavement,summer babe,1992
+286,287,run dmc,walk this way,1986
+287,288,barrett strong,money (that's what i want),1960
+288,289,the beatles,can't buy me love,1964
+289,290,eminem feat. dido,stan,2000
+290,291,the zombies,she's not there,1964
+291,292,the clash,train in vain,1979
+292,293,al green,tired of being alone,1971
+293,294,led zeppelin,black dog,1971
+294,295,the rolling stones,street fighting man,1968
+295,296,bob marley,"get up, stand up",1975
+296,297,neil young,heart of gold,1972
+297,298,blondie,one way or another,1978
+298,299,prince,sign 'o' the times,1987
+299,300,madonna,like a prayer,1989
+300,301,rod stewart,da ya think i'm sexy,1978
+301,302,willie nelson,blue eyes crying in the rain,1975
+302,303,the rolling stones,ruby tuesday,1967
+303,304,the beatles,with a little help from my friends,1967
+304,305,james brown,say it loud i'm black and i'm proud,1968
+305,306,the jam,that's entertainment,1980
+306,307,franky lymon,why do fools fall in love,1956
+307,308,jackie wilson,lonely teardrops,1958
+308,309,tina turner,what's love got to do with it,1984
+309,310,black sabbath,iron man,1971
+310,311,the everly brothers,wake up little susie,1957
+311,312,roy orbison,in dreams,1963
+312,313,screamin' jay hawkins,i put a spell on you,1956
+313,314,pink floyd,comfortably numb,1979
+314,315,the animals,don't let me be misunderstood,1965
+315,316,pink floyd,wish you were here,1975
+316,317,jimmy cliff,many rivers to cross,1969
+317,318,elvis costello,alison,1977
+318,319,alice cooper,schools out,1972
+319,320,led zeppelin,heartbreaker,1969
+320,321,neil young,cortez the killer,1975
+321,322,public enemy,fight the power,1989
+322,323,patti smith,dancing barefoot,1979
+323,324,diana ross & the supremes,baby love,1964
+324,325,the rascals,good lovin,1966
+325,326,james brown,get up (i feel like being a) sex machine,1970
+326,327,jerry butler,for your precious love,1958
+327,328,the doors,the end,1967
+328,329,"earth, wind & fire",that's the way of the world,1975
+329,330,the queen,we will rock you,1977
+330,331,bonnie raitt,i can't make you love me,1991
+331,332,bob dylan,subterranean homesick blues,1965
+332,333,norman greenbaum,spirit in the sky,1970
+333,334,the rolling stones,wild horses,1971
+334,335,"lou reed, the velvet underground",sweet jane,1970
+335,336,aerosmith & run dmc,walk this way,1976
+336,337,michael jackson,beat it,1982
+337,338,paul mccartney,maybe i'm amazed,1970
+338,339,diana ross & the supremes,you keep me hangin' on,1966
+339,340,the who,baba o'riley,1971
+340,341,jimmy cliff,the harder they come,1975
+341,342,dion & the belmonts,runaround sue,1961
+342,343,lavern baker,jim dandy,1956
+343,344,janis joplin,piece of my heart,1968
+344,345,ritchie valens,la bamba,1958
+345,346,tupac shakur,california love,1996
+346,347,elton john,candle in the wind,1973
+347,348,the isley brothers,who's that lady,1973
+348,349,ben e. king,spanish harlem,1960
+349,350,little eva,the loco-motion,1962
+350,351,the platters,the great pretender,1955
+351,352,elvis presley,all shook up,1955
+352,353,eric clapton,tears in heaven,1992
+353,354,elvis costello,watching the detectives,1977
+354,355,ccr,bad moon rising,1969
+355,356,eurythmics,sweet dreams,1983
+356,357,jimi hendrix,little wing,1968
+357,358,martha reeves and the vandellas,nowhere to run,1965
+358,359,muddy waters,got my mojo working,1957
+359,360,roberta flack,killing me softly with his son,1973
+360,361,the clash,complete control,1979
+361,362,the beatles,all you need is love,1967
+362,363,the box tops,the letter,1967
+363,364,bob dylan,highway 61 revisited,1965
+364,365,the righteous brothers,unchained melody,1965
+365,366,the bee gees,how deep is your love,1977
+366,367,cream,white room,1968
+367,368,depeche mode,personal jesus,1989
+368,369,bo diddley,i'm a man,1955
+369,370,jimi hendrix,the wind cries mary,1967
+370,371,the who,i can't explain,1965
+371,372,television,marquee moon,1977
+372,373,sam cooke,wonderful world,1960
+373,374,chuck berry,brown eyed handsome man,1956
+374,375,pink floyd,another brick in the wall part 2,1979
+375,376,radiohead,fake plastic trees,1996
+376,377,ray charles,hit the road jack,1961
+377,378,u2,pride (in the name of love),1984
+378,379,r.e.m.,radio free europe,1991
+379,380,elton john,goodbye yellow brick road,1973
+380,381,aaron neville,tell it like it is,1965
+381,382,the verve,bitter sweet symphony,1997
+382,383,the allman brothers band,whipping post,1971
+383,384,the beatles,ticket to ride,1965
+384,385,"crosby, stills, nash & young",ohio,1970
+385,386,eric b. and rakim,i know you got soul,1987
+386,387,elton john,tiny dancer,1972
+387,388,the police,roxanne,1978
+388,389,the temptations,just my imagination,1971
+389,390,the four tops,baby i need your loving,1965
+390,391,freda payne,band of gold,1970
+391,392,the five stairsteps,o-o-h child,1970
+392,393,the lovin’ spoonful,summer in the city,1966
+393,394,elvis presley,can't help falling in love,1961
+394,395,the shangri-las,remember (walkin' in the sand),1964
+395,396,big star,thirteen,1972
+396,397,blue oyster cult,(don`t fear) the reaper,1976
+397,398,lynyrd skynyrd,sweet home alabama,1974
+398,399,metallica,enter sandman,1991
+399,400,paul revere & the raiders,kicks,1966
+400,401,the shirelles,tonight's the night,1960
+401,402,sly and the family stone,thank you (falettinme be mice elf again),1970
+402,403,eddie cochran,c'mon everybody,1958
+403,404,bob dylan,visions of johanna,1966
+404,405,the carpenters,we've only just begun,1971
+405,406,r. kelly,i believe i can fly,1996
+406,407,nirvana,in bloom,1992
+407,408,aerosmith,sweet emotion,1975
+408,409,cream,crossroads,1969
+409,410,pixies,monkey gone to heaven,1989
+410,411,donna summer,i feel love,1977
+411,412,bobbie gentry,ode to billy joe,1967
+412,413,little richard,the girl can't help it,1957
+413,414,the coasters,young blood,1957
+414,415,the four tops,i can't help myself,1965
+415,416,don henley,the boys of summer,1984
+416,417,n.w.a.,fuck the police,1988
+417,418,"crosby, stills & nash",suite judy blue eyes,1969
+418,419,dr. dre,nuthin' but a 'g' thang,1993
+419,420,the isley brothers,it's your thing,1969
+420,421,billy joel,piano man,1973
+421,422,the kinks,lola,1970
+422,423,elvis presley,blue suede shoes,1956
+423,424,the rolling stones,tumbling dice,1972
+424,425,the smiths,"william, it was really nothing",1984
+425,426,deep purple,smoke on the water,1972
+426,427,u2,new year's day,1983
+427,428,mitch ryder & the detroit wheels,devil with a blue dress on good golly,1966
+428,429,solomon burke,everybody needs somebody to love,1964
+429,430,the clash,white man in hammersmith palais,1978
+430,431,fats domino,ain't it a shame,1955
+431,432,gladys knight and the pips,midnight train to georgia,1977
+432,433,led zeppelin,ramble on,1969
+433,434,wilson pickett,mustang sally,1966
+434,435,the rolling stones,beast of burden,1981
+435,436,love,alone again or,1967
+436,437,elvis presley,love me tender,1956
+437,438,the stooges,i wanna be your dog,1969
+438,439,john cougar mellenkamp,pink houses,1984
+439,440,salt-n-pepa,push it,1987
+440,441,the dell-vikings,come go with me,1957
+441,442,little richard,keep a knockin',1957
+442,443,bob marley & the wailers,i shot the sheriff,1973
+443,444,sonny & cher,i got you babe,1965
+444,445,nirvana,come as you are,1992
+445,446,toots and the maytals,pressure drop,1968
+446,447,the shangri-las,leader of the pack,1964
+447,448,the velvet underground,heroin,1967
+448,449,the beatles,penny lane,1967
+449,450,glen campbell,by the time i get to phoenix,1967
+450,451,chubby checker,the twist,1960
+451,452,sam cooke,cupid,1961
+452,453,guns ‘n' roses,paradise city,1987
+453,454,george harrison,my sweet lord,1970
+454,455,nirvana,all apologies,1994
+455,456,lloyd price,stagger lee,1958
+456,457,ramones,sheena is a punk rocker,1977
+457,458,sam & dave,soul man,1965
+458,459,muddy waters,rollin' stone,1950
+459,460,the chiffons,one fine day,1963
+460,461,prince and the revolution,kiss,1986
+461,462,the staple singers,respect yourself,1972
+462,463,the beatles,rain,1966
+463,464,the four tops,standing in the shadows of love,1966
+464,465,cheap trick,surrender,1978
+465,466,del shannon,runaway,1961
+466,467,guns ‘n' roses,welcome to the jungle,1987
+467,468,the stooges,search and destroy,1964
+468,469,carole king,it's too late,1971
+469,470,joni mitchell,free man in paris,1974
+470,471,willie nelson,on the road again,1980
+471,472,the supremes,where did our love go,1964
+472,473,aretha franklin,do right woman - do right man,1967
+473,474,funkadelic,one nation under a groove (part. 1),1978
+474,475,beastie boys,sabotage,1994
+475,476,foreigner,i want to know what love is,1984
+476,477,rick james,super freak,1981
+477,478,jefferson airplane,white rabbit,1967
+478,479,labelle,lady marmalade,1974
+479,480,van morrison,into the mystic,1970
+480,481,david bowie,young americans,1975
+481,482,alice cooper,i'm eighteen,1971
+482,483,the cure,just like heaven,1987
+483,484,joan jett,i love rock and roll,1981
+484,485,paul simon,graceland,1986
+485,486,the smiths,how soon is now,1984
+486,487,the drifters,under the boardwalk,1964
+487,488,fleetwood mac,rhiannon,1975
+488,489,gloria gaynor,i will survive,1978
+489,490,the rolling stones,brown sugar,1971
+490,491,dusty springfield,you don't have to say you love me,1966
+491,492,jackson browne,running on empty,1977
+492,493,the crystals,then he kissed me,1963
+493,494,the eagles,desperado,1973
+494,495,smokey robinson,shop around,1960
+495,496,the rolling stones,miss you,1978
+496,497,weezer,buddy holly,1994
+497,498,brook benton,rainy night in georgia,1970
+498,499,thin lizzy,the boys are back in town,1976
+499,500,boston,more than a feeling,1976
